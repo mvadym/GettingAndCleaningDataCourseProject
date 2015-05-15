@@ -49,10 +49,16 @@ Also data descriptions were provided in files:
 ##Data transformations scripted to get a tidy data set as required
 
   Loading data into R from the data files
+  
   Merge training and test data
-	Conversion variable names taken features.txt to R-compliant format
+  
+  Conversion variable names taken features.txt to R-compliant format
+  
   Renaming variables with names got at previous step
+  
   Filter the data remaining only variables related to means and standards deviations
+  
   Bind the subject, activity code and activity label description to the main dataset
+  
   Generate a new tidy data set as requested with averages by activity and sublect, and write it in a txt file
   

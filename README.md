@@ -19,3 +19,5 @@ The objective of the project is to generate a tidy data set from the source data
 Source data is downloaded and uncompressed to the same folder as the script.
 
 Resulting tidy data set is created in the same folder mentioned above.
+
+Updated on Sept 27, 2020
